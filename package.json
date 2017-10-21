@@ -1,5 +1,5 @@
 {
-  "name": "sitemap-xml-to-array",
+  "name": "sitemap2array",
   "version": "1.0.0",
   "description": "A module to read a simple sitemap.xml file online and return the URLs as an Array",
   "main": "index.js",
