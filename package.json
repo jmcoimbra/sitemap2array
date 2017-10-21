@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jmcoimbra/read-sitemap-xml#readme",
   "dependencies": {
-    "got": "^7.1.0"
+    "got": "^7.1.0",
+    "xml-parser": "^1.2.1"
   }
 }
