@@ -1,7 +1,7 @@
 {
-  "name": "read-sitemap-xml",
+  "name": "sitemap-xml-to-array",
   "version": "1.0.0",
-  "description": "A module to read simple sitemap.xml files online",
+  "description": "A module to read a simple sitemap.xml file online and return the URLs as an Array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
