@@ -5,7 +5,7 @@ A module to read a simple sitemap.xml file online and return the URLs as an Arra
 ## Install
 
 ```
-$ npm install sitemap-xml-to-array
+$ npm install sitemap2array
 ```
 
 ## Usage
