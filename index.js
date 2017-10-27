@@ -16,7 +16,6 @@ function sitemapUrlsToArray(sitemap) {
     })[0];
     return loc.content;
   });
-  console.log(urls);
   return urls;
 }
 
