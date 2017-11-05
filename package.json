@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmcoimbra/read-sitemap-xml.git"
+    "url": "git+https://github.com/jmcoimbra/sitemap2array.git"
   },
   "keywords": [
     "sitemap.xml",
@@ -20,9 +20,9 @@
   "author": "Juliano Medeiros Coimbra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmcoimbra/read-sitemap-xml/issues"
+    "url": "https://github.com/jmcoimbra/sitemap2array/issues"
   },
-  "homepage": "https://github.com/jmcoimbra/read-sitemap-xml#readme",
+  "homepage": "https://github.com/jmcoimbra/sitemap2array#readme",
   "dependencies": {
     "got": "^7.1.0",
     "xml-parser": "^1.2.1"
