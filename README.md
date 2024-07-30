@@ -13,6 +13,7 @@ $ npm install sitemap2array
 ```js
 const sitemap2array = require('sitemap2array');
 
+// change "google.com/sitemap.xml" to the sitemap URL you want to fetch
 sitemap2array('google.com/sitemap.xml')
 	.then(response => {
 		console.log(response);
