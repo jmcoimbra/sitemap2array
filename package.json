@@ -1,10 +1,13 @@
 {
   "name": "sitemap2array",
-  "version": "1.0.0",
-  "description": "A module to read a simple sitemap.xml file online and return the URLs as an Array",
+  "version": "2.0.0",
+  "description": "Fetch a sitemap.xml URL and return its URLs as an array",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "repository": {
     "type": "git",
@@ -15,7 +18,9 @@
     "sitemap",
     "reader",
     "http",
-    "web"
+    "web",
+    "url",
+    "array"
   ],
   "author": "Juliano Medeiros Coimbra",
   "license": "MIT",
@@ -24,7 +29,6 @@
   },
   "homepage": "https://github.com/jmcoimbra/sitemap2array#readme",
   "dependencies": {
-    "got": "^11.8.5",
     "xml-parser": "^1.2.1"
   }
 }
