@@ -1,6 +1,6 @@
 {
   "name": "sitemap2array",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Fetch a sitemap.xml URL and return its URLs as an array",
   "main": "index.js",
   "scripts": {
